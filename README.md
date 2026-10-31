@@ -49,11 +49,10 @@ One of my personal development projects
 
 ---
 
+
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=sweecksss&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweecksss&layout=compact&theme=midnight-purple&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweecksss&theme=2077" width="95%" />
 
 ---
 
